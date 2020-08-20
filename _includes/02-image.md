@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Tuff XY](https://i.ytimg.com/vi/So0FCI8OmyE/maxresdefault.jpg)
